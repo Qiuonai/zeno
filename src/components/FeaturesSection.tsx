@@ -1,4 +1,4 @@
-import React from "react";
+//import React from "react";
 import { CheckCircle } from "lucide-react";
 
 // ✅ Move this array above the component
