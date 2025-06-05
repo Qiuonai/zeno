@@ -1,4 +1,4 @@
-import { Button } from "./ui/Buttons"; // Optional, depending on your button reuse setup
+// Optional, depending on your button reuse setup
 import { ArrowRight } from "lucide-react";
 
 export default function HeroSection() {
