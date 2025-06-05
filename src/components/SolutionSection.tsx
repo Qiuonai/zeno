@@ -7,7 +7,7 @@ import {
 } from "lucide-react";
 import { motion } from "framer-motion";
 import { CgWebsite } from "react-icons/cg";
-import { BiMobile } from "react-icons/bi";
+
 
 // ✅ Make sure this is above the component
 const features = [
